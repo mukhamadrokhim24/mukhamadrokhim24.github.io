@@ -1,0 +1,27 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ce998763;
+}
+
+#projects {
+  background-color: #ce998763;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.nav-color {
+  background-color: #583225;
+  opacity: 50;
+}
+
+.btn-color {
+  background-color: #dd937b;
+}
+
+.bg-color {
+  padding-top: 2rem;
+  background-color: #583225;
+  opacity: 50;
+}
